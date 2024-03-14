@@ -1,11 +1,11 @@
-# Netflix Front Page Clone
+# Clone of webpages
 
-This project is a clone of the Netflix front page created using HTML and CSS.
+This project is a clone of few web pages created using HTML and CSS(Tailwind).
 
 ## Technologies Used
 
 - HTML
-- CSS
+- CSS(Tailwind)
 
 ## Features
 

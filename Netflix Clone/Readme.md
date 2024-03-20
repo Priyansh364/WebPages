@@ -2,7 +2,8 @@
 
 This project is a clone of the Netflix front page created using HTML and CSS.
 
-#Demo
+##Demo
+
 https://netflix-clone-priyansh.netlify.app/
 
 ## Technologies Used

@@ -2,6 +2,9 @@
 
 This project is a clone of the Twitter page created using HTML and Tailwind CSS.
 
+#Demo 
+https://priyansh-twitter-clone.netlify.app/
+
 ## Technologies Used
 
 - HTML
